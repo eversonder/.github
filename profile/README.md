@@ -12,6 +12,7 @@ One API for every sandbox your agents use: cheapest, fastest or nearest, on the 
 
 - [Use cases](https://annex.eversonder.com/use-cases): twelve things to build, six with a full walkthrough
 - [annex-examples](https://github.com/eversonder/annex-examples): those six as small projects you can run
+- [annex-cli](https://github.com/eversonder/annex-cli): Annex from your terminal
 - [Providers](https://annex.eversonder.com/providers) · [Prices](https://annex.eversonder.com/sandbox-prices) · [Docs](https://annex.eversonder.com/docs)
 
 ### [Wonder](https://eversonder.com/wonder)
