@@ -1,4 +1,4 @@
-# EVERSONDER
+<img src="banner.png" alt="EVERSONDER" width="100%">
 
 **A lab for human curiosity.** An independent lab building the foundations that let AI work for each person: safely, lastingly and on their own terms.
 
